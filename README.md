@@ -18,7 +18,7 @@ There are 3 functionalities in our application:
 How to use?
 -----------
 - Download the dataset file fer2013.csv first from the above link and load or open it in your jupyter notebook
-- We have provided the trained model, so you don't have to re-train the model
+- The pre-trained model is provided, so you don't have to re-train the model
 - Just load the model and run
 - For VGG19 and ResNet, you have to build the architecture and then load the model to use it (till model.compile(), then model.save())
 - Input a sample image, video in the model as mentioned above or use your webcam
