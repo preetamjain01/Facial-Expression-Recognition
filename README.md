@@ -22,7 +22,3 @@ How to use?
 - Just load the model and run
 - For VGG19 and ResNet, you have to build the architecture and then load the model to use it (till model.compile(), then model.save())
 - Input a sample image, video in the model as mentioned above or use your webcam
-
-Authors
--------
-Rupesh Acharya, Preetam Jain
